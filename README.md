@@ -1,27 +1,3 @@
-<br clear="both">
-
-<h1 align="center"></h1>
-
-###
-
-<br clear="both">
-
-<p align="right"></p>
-
-###
-
-<br clear="both">
-
-<h2 align="left"></h2>
-
-###
-
-<br clear="both">
-
-<p align="left"></p>
-
-###
-
 <h2 align="left">I code with</h2>
 
 ###
@@ -46,13 +22,13 @@
 
 ###
 
-
-
-###
+<br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YasserCBF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserCBF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=YasserCBF&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=false&disable_animations=true&theme=algolia&locale=es&hide_border=false&order=1" height="156" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YasserCBF&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=algolia&hide_border=false&order=2" height="154" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=YasserCBF&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YasserCBF&radius=16&theme=redical&area=true&order=5&hide_title=false" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -60,13 +36,11 @@
 <br clear="both">
 
 <div align="center">
-  <img height="199" src="https://media.tenor.com/T2pUMWEHPNIAAAAM/yggdrasil-elf.gif"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=YasserCBF.YasserCBF&left_color=aliceblue&right_color=antiquewhite&left_text=hola"  />
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YasserCBF/count.svg?"  />
-</div>
+<img align="left" height="222" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606"  />
 
 ###
