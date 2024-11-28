@@ -35,12 +35,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YasserCBF.YasserCBF&left_color=aliceblue&right_color=antiquewhite&left_text=hola"  />
-</div>
-
-###
-
-<img align="left" height="222" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606"  />
+<img align="left" height="234" src="https://cdna.artstation.com/p/assets/images/images/025/965/386/original/lennart-butz-idea5anim4.gif?1587480606"  />
 
 ###
