@@ -43,9 +43,6 @@
 - 🌱 Learning advanced TypeScript and cloud-based development with tools like Firebase.
 - 💻 Experienced in full-stack development with HTML, CSS, PHP, and Tailwind CSS.
 - 📚 Proficient in data analysis and scripting with Jupyter and Anaconda.
-- 📫 Reach me at: [your.email@example.com] or [LinkedIn profile link]
-- ⚡ Fun fact: I love blending creativity with code, inspired by Peru’s vibrant culture!
-
 ---
 
 ### 🚀 Featured Projects
